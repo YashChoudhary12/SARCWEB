@@ -1,0 +1,21 @@
+.navbar{
+    top:0;
+    left: 25%;
+    width: 50%;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:#7c7c7c;
+    border-radius: 10px;
+    
+}
+
+.navbutton{
+    background-color:rgb(255,255,255);
+    width: 70px;
+    font: bold;
+    
+}
+
